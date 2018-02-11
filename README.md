@@ -14,7 +14,7 @@ I had a dream last night about putting Harry Potter on my Arduboy. Wanted to see
 - The Arduino program takes up 800% of my CPU and never compiles
 
 ### Desired Outcome
-![Desired Outcome](art/gif/final_128x64.gif)
+![Desired Outcome](art/gif/dev/final_128x64.gif)
 
 ### Accidental Art
 ![Art](art/gif/dev/art.gif)

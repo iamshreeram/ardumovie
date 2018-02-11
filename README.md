@@ -1,6 +1,6 @@
 # Ardumovie
 ## Overview
-I had a dream last night about putting Harry Potter on my Arduboy. Wanted to see if it was possible.
+I had a dream last night about putting Harry Potter on my [Arduboy](https://arduboy.com/store/arduboy/). Wanted to see if it was possible.
 
 ## Failed Process
 1. Obtain a GIF of Harry Potter
